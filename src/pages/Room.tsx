@@ -118,7 +118,7 @@ export function Room() {
           <div className="form-footer">
             {!user ? (
               <span>
-                Para enviar uma pergunta, <button>faça seu login</button>.{' '}
+                Para enviar uma pergunta, <button>faça seu login</button>.
               </span>
             ) : (
               <div className="user-info">
